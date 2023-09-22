@@ -4,3 +4,4 @@
 
 -- mac 
 -- windows 
+-- idea for mac
